@@ -1,5 +1,5 @@
 <h1>Ballebot Landing Page</h1>
-<p>Welcome to the Ballebot Landing Page repository! This project showcases a stunning landing page for our innovative coffee shop, <strong>Ballecoffee</strong>.</p>
+<p>Welcome to the Ballebot Landing Page repository! This project showcases a stunning landing page for our innovative bot of discord, <strong>Ballebot</strong>.</p>
 
 <h2>Features</h2>
 <ul>
